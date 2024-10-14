@@ -1,3 +1,11 @@
+// addressType.h
+
+#ifndef ADDRESS_TYPE_H
+#define ADDRESS_TYPE_H
+
+
+
+
 #include <iostream>
 
 using namespace std;
@@ -70,3 +78,4 @@ public:
    }
 
 };
+#endif // ADDRESS_TYPE_H
